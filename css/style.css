@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    /* text-align: right;
+    /* width: 50%; */ /*Con esto controlamos el ancho del elemento  */
+    font-weight: normal;/* font-weight: 400*/
+    /*puede hacerlo normal o negrita la letra existen rangos*/
+    text-decoration: blue line-through wavy; /*underline, overline*/ 
+    /* agrega una linea ya sea por debajo del texto o encima o sobre
+    ademas podemos controlar de que color es la inea o puede ser punteada o no */
+    letter-spacing: 15px;/*espaciado entre letras*/+
+    font-size: 80px;
+}
+p{
+    /* text-align: right;
+    font-weight: bold; */
+    line-height: 2;
+}
+a{
+    text-decoration: none;
+}
+/* Es parte de la introduccion de css
+ h2{
+    color: #5FCFFC;
+    background-color: rgb(89,151,0);
+}
+
+button{
+    color: magenta;
+    background-color: cyan;
+}
+
+p{
+    color: rgb(235, 53, 21);
+}
+body{
+    background-color: #C5E;
+} */
+/* CC55EE ES LO MISMO QUE C5E */
