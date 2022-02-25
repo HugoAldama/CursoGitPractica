@@ -11,8 +11,8 @@ h1{
     font-size: 80px;
 }
 p{
-    /* text-align: right;
-    font-weight: bold; */
+    text-align: right;
+    font-weight: bold; 
     line-height: 2;
 }
 a{
